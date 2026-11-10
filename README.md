@@ -6,10 +6,10 @@ Voraussichtlicher Ablaufplan (kann sich ändern):\
 07.10.26: Einführung + Gleichungssysteme\
 14.10.26: Grundrechenregeln + Gleichungssysteme\
 21.10.26: Nullstellen + Matrix Eigenwerte\
-28.10.26: Matrix Eigenwerte / Eigenvektoren\
-04.11.26: Ableiten\
-11.11.26: Funktionen mit 2 Unbekannten\
-18.11.26: Tangentialebene\
+28.10.26: Matrix Eigenwerte & Eigenvektoren\
+04.11.26: Matrix Eigenwerte & Eigenvektoren\
+11.11.26: Ableiten\
+18.11.26: Funktionen mit 2 Unbekannten & Tangentialebene\
 25.11.26: Integrieren\
 02.12.26: Integrieren\
 09.12.26: Reihen\
