@@ -10,10 +10,10 @@ Voraussichtlicher Ablaufplan (kann sich ändern):\
 04.11.26: Matrix Eigenwerte & Eigenvektoren\
 11.11.26: Ableiten\
 18.11.26: Funktionen mit 2 Unbekannten & Tangentialebene\
-25.11.26: Integrieren\
-02.12.26: Integrieren\
-09.12.26: Reihen\
-16.12.26: Reihen\
+25.11.26: Folgen und Reihen\
+02.12.26: Folgen und Reihen\
+09.12.26: Integrieren\
+16.12.26: Integrieren\
 23.12.26: Differenzengleichungen\
 13.01.26: Differenzengleichungen\
 20.01.26: Puffer
